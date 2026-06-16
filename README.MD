@@ -71,9 +71,9 @@ projeto_osciloscopio/
 
 ## Autores
 
-Erika Anastácio Creatto
-Jônatas da Silva Pereira
-Reinaldo Gomes de Souza
-Vêronica Marques Palevicius
+Erika Anastácio Creatto - 
+Jônatas da Silva Pereira - 
+Reinaldo Gomes de Souza - 
+Vêronica Marques Palevicius - 
 
 FATEC, 4º Semestre, IoT
