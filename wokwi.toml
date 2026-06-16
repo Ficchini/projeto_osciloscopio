@@ -1,0 +1,12 @@
+# Após "pio run", o Wokwi carrega estes binários
+# Se renomear o ambiente em platformio.ini, atualize os caminhos abaixo
+
+[wokwi]
+version = 1
+elf = ".pio/build/esp32dev/firmware.elf"
+firmware = ".pio/build/esp32dev/firmware.bin"
+
+# Acesse no navegador: http://127.0.0.1:8180 (simulacao Wokwi deve estar rodando e visivel)
+[[net.forward]]
+from = "127.0.0.1:8180"
+to = "target:80"
